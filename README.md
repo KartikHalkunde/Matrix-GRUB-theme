@@ -30,9 +30,10 @@ This is a **customization of the original [Fallout GRUB theme](https://github.co
 - 🖼️ New background image (custom artwork or Matrix-inspired visuals)
 
 
-## 📸 Preview
+## 📸 Theme Preview
 
-(background.png)
+![Matrix GRUB Preview](background.png)
+
 
 ## 📦 Installation
 
