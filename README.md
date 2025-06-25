@@ -1,6 +1,6 @@
 # Matrix GRUB Theme (Customized by Kartik Halkunde)
 
-## A customized version of the Fallout GRUB theme by shvchk, tweaked to better fit my personal style and setup as featured on r/unixporn.
+# A customized version of the Fallout GRUB theme by shvchk, tweaked to better fit my personal style and setup as featured on r/unixporn.
 ✨ Changes Made
 
     Custom background image
