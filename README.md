@@ -32,7 +32,7 @@ This is a **customization of the original [Fallout GRUB theme](https://github.co
 
 ## 📸 Theme Preview
 
-![Matrix GRUB Preview](background.png)
+![Matrix GRUB Preview](preview.png)
 
 
 ## 📦 Installation
