@@ -32,7 +32,7 @@ This is a **customization of the original [Fallout GRUB theme](https://github.co
 
 ## 📸 Preview
 
-(Add your own screenshots here)
+(background.png)
 
 ## 📦 Installation
 
